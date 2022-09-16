@@ -1,0 +1,18 @@
+
+First Table - Player Info
+    Name, team, position, birthdate, height, weight, headshot_href, draft_pick, espn_id
+    add ages
+
+
+Second Table - Player Statistics
+    espn_id, year, age, height, weight, draft_pick, season, 
+    fantasy_points, games, ppr_sh, completions, attempts, 
+    passing_yards, passing_tds, interceptions, 
+    rank, qbr_total, pts_added, qb_plays, epa_total, 
+    pass, run, qbr_raw, qualified, passing_air_yards, 
+    passing_yards_after_catch, passing_first_downs, passing_epa, 
+    passing_2pt_conversions, dakota, carries, rushing_yards,
+    rushing_tds, rushing_fumbles, rushing_fumbles_lost, 
+    rushing_first_downs, rushing_epa, rushing_2pt_conversions
+    sacks, sack_yards, sack_fumbles, sack_fumbles_lost
+
